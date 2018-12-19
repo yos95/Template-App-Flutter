@@ -1,8 +1,11 @@
-# x
+# Flutter Template
 
-A new Flutter project.
+To start a "clean" application without comment and debug banner.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+- Make a **flutter create ApplicationName**
+- **cd AppName**
+- opened the folder under VsCode go to the lib folder
+- open the file main dart and replace the contents with that of the main file of the repo
+- **Flutter run** in the application folder
