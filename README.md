@@ -10,4 +10,6 @@ To start a "clean" application without comment and debug banner.
 - open the file main dart and replace the contents with that of the main file of the repo
 - **Flutter run** in the application folder
 
-![alt text](https://github.com/yos95/Template-Flutter/blob/master/Screenshot/main.png)
+<p align="center" >
+<img src="https://github.com/yos95/Template-Flutter/blob/master/Screenshot/main.png"width="300" height="550">
+</p>
